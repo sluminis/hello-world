@@ -1,5 +1,5 @@
 # hello-world
-first repository for test
+something deleted
 
 ```
 I am learning to use github, this is a test message
